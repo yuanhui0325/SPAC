@@ -1,0 +1,11 @@
+
+torch>=2.1
+numpy>=1.23
+scipy>=1.11
+tqdm>=4.66
+# MinkowskiEngine for sparse conv: pip install -U MinkowskiEngine -f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/whl/torch-2.1.0.html
+compressai>=1.2.5
+torchac>=0.9.3
+trimesh>=4.4
+plyfile>=1.0
+scikit-learn>=1.3
